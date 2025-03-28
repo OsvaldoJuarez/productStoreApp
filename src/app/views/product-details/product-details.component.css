@@ -1,0 +1,64 @@
+.container {
+    padding: 30px;
+    background-color: #f4f4f9;
+  }
+  
+  mat-card {
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h3 {
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  p {
+    font-size: 1.1rem;
+    color: #555;
+    margin: 10px 0;
+  }
+  
+  strong {
+    font-weight: bold;
+    color: #333;
+  }
+  
+  button[mat-raised-button] {
+    background-color: #007bff;
+    color: white;
+    padding: 12px 25px;
+    border-radius: 6px;
+    font-size: 1.1rem;
+    transition: background-color 0.3s ease;
+  }
+  
+  button[mat-raised-button]:hover {
+    background-color: #0056b3;
+  }
+  
+  button[mat-stroked-button] {
+    color: #007bff;
+    border: 1px solid #007bff;
+    padding: 12px 25px;
+    border-radius: 6px;
+    font-size: 1.1rem;
+    transition: background-color 0.3s ease;
+  }
+  
+  button[mat-stroked-button]:hover {
+    background-color: #007bff;
+    color: white;
+  }
+  
+  .mt-3 {
+    margin-top: 30px;
+  }
+  
+  .ms-2 {
+    margin-left: 10px;
+  }
+  

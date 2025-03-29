@@ -27,6 +27,6 @@ export class CartComponent {
       titulo: 'Bocina Portátil', 
       imagen: 'assets/images/bocina.jpg'
     } 
-  ]; 
+  ];
 }
 
